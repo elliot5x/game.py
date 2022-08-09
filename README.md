@@ -1,3 +1,3 @@
 ## Joguinho aleatório
 
-- *Começo de um projeto*# Joguinho
+- *Começo de um projeto*
