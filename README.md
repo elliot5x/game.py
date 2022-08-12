@@ -10,3 +10,9 @@
 - Um circulo com fundo azul.
 - Adicionei também o movimento.
 
+### ** Nova atualização **
+
+- Adicionei as imagens de carros.
+- Coloquei movimento nelas.
+- Basicamente está jogavél, mas nem tanto rs.
+
