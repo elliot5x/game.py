@@ -16,3 +16,9 @@
 - Coloquei movimento nelas.
 - Basicamente está jogavél, mas nem tanto rs.
 
+### ** Atualização ** --Dia 16/08/2022
+
+- Adicionei colisão com a parede(limites do mapa).
+- Coloquei "randomização" nos veiculos.
+- Modifiquei a estrada para uma maior com mais espaço para o jogador e para os carros.
+
