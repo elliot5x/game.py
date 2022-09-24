@@ -43,6 +43,7 @@ while janela_aberta:
             janela_aberta = False
 
     command = pygame.key.get_pressed()
+
     if command[pygame.K_d] and x <= 595:
         x += velocity
     if command[pygame.K_a] and x >= 15:
